@@ -1,0 +1,1 @@
+define(["ojs/ojcomposite","text!./toolbar-comp-view.html","./toolbar-comp-viewModel","text!./component.json","css!./toolbar-comp-styles"],function(o,e,t,s){o.register("toolbar-comp",{view:e,viewModel:t,metadata:JSON.parse(s)})});

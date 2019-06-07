@@ -1,0 +1,1 @@
+define({root:{"toolbar-comp":{sampleString:"The strings file can be used to manage translatable resources"}}});
